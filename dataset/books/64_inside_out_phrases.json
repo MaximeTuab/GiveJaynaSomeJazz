@@ -1,0 +1,70 @@
+{
+    "desc": "From the book **64 Inside Out Phrases**, work on the** @phrase @type **phrase in** @key**. \n If time, work on 3 keys, following the cycle of fifths.",
+    "randomizers": [
+        {
+            "@type": [
+                "ii-V7-I"
+            ],
+            "@phrase": [
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th"
+            ]
+        },
+        {
+            "@type": [
+                "iiø - V7 - i",
+                "I - (V7/IV) - IV",
+                "I - (iiø - V7/vi) - vi",
+                "iii - VI - ii - V7",
+                "i - (ii V7/bVI) - bVI",
+                "Major 7",
+                "Dominant 7 Phrases",
+                "Minor 7 Phrases"
+            ],
+            "@phrase": [
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th"
+            ]
+        }
+    ],            
+    "@key": [
+        "C",
+        [
+            "C#",
+            "Db"
+        ],
+        "D",
+        [
+            "D#",
+            "Eb"
+        ],
+        "E",
+        "F",
+        [
+            "F#",
+            "Gb"
+        ],
+        "G",
+        [
+            "G#",
+            "Ab"
+        ],
+        "A",
+        [
+            "A#",
+            "Bb"
+        ],
+        "B"
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "desc": "From the book **69 Modern Phrases**, work on the** @phrase @type **phrase in** @key**. \n If time, work on 3 keys, following the cycle of fifths.",
+    "randomizers": [
+        {
+            "@type": [
+                "Major Vamp"
+            ],
+            "@phrase": [
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th"
+            ]
+        },
+        {
+            "@type": [
+                "Dominant Vamp",
+                "Minor Vamp",
+                "Major ii7 - V7 - I Phrases"
+            ],
+            "@phrase": [
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th",
+                "10th",
+                "11th",
+                "12th"
+            ]
+        },
+        {
+            "@type": [
+                "Minor ii7b5 - V7b9 - i Phrases"
+            ],
+            "@phrase": [
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th",
+                "9th",
+                "10th",
+                "11th",
+                "12th",
+                "13th",
+                "14th", 
+                "15th", 
+                "16th"
+            ]
+        },
+        {
+            "@type": [
+                "Backdoor iv7 - bVII7 - I Phrases"
+            ],
+            "@phrase": [
+                "1st",
+                "2nd",
+                "3rd",
+                "4th",
+                "5th",
+                "6th",
+                "7th",
+                "8th"
+            ]
+        }
+    ],
+    "@key": [
+        "C",
+        [
+            "C#",
+            "Db"
+        ],
+        "D",
+        [
+            "D#",
+            "Eb"
+        ],
+        "E",
+        "F",
+        [
+            "F#",
+            "Gb"
+        ],
+        "G",
+        [
+            "G#",
+            "Ab"
+        ],
+        "A",
+        [
+            "A#",
+            "Bb"
+        ],
+        "B"
+    ]
+}

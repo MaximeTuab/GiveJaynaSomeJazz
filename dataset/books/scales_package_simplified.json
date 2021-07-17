@@ -1,0 +1,48 @@
+{
+    "desc": "From the book **Scales Package SIMPLIFIED**, work on exercice** @ex **in** @key @scale **scale",
+    "@ex": [
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "@key": [
+        "C",
+        [
+            "C#",
+            "Db"
+        ],
+        "D",
+        [
+            "D#",
+            "Eb"
+        ],
+        "E",
+        "F",
+        [
+            "F#",
+            "Gb"
+        ],
+        "G",
+        [
+            "G#",
+            "Ab"
+        ],
+        "A",
+        [
+            "A#",
+            "Bb"
+        ],
+        "B"
+    ],
+    "@scale": [
+        "major",
+        "melodic minor",
+        "natural minor",
+        [
+            "diminished (half step / whole step)",
+            "diminished (whole step / half step)"
+        ],
+        "whole tone"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "desc": "From the book **60 Phrases on Dominant Chords**, work on the** @phrase @type **phrase in** @key**. \n If time, work on 3 keys, following the cycle of fifths",
+    "@type": [
+        "dominant 7",
+        "dominant 7#11",
+        "dominant 7b9",
+        "dominant 7#9",
+        "altered Dominant 7",
+        "dominant 7b13 or 7#5"
+    ],
+    "@phrase": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th",
+        "5th",
+        "6th",
+        "7th",
+        "8th",
+        "9th",
+        "10th"
+    ],
+    "@key": [
+        "C",
+        [
+            "C#",
+            "Db"
+        ],
+        "D",
+        [
+            "D#",
+            "Eb"
+        ],
+        "E",
+        "F",
+        [
+            "F#",
+            "Gb"
+        ],
+        "G",
+        [
+            "G#",
+            "Ab"
+        ],
+        "A",
+        [
+            "A#",
+            "Bb"
+        ],
+        "B"
+    ]
+}

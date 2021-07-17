@@ -1,0 +1,49 @@
+{
+    "pdf": "/Users/maxime/Documents/jazz lesson and books/Greg Fishman/Hip Licks Volume 1.pdf",
+    "desc": "From the book **Hip Licks Volume 1**, work on the** @type **lick in** @key**. \n If time, work on 3 keys, following the cycle of fifths",
+    "@type": [
+        "ii mi7 / V7 (page 16)",
+        "ii mi7 / V7 / I Maj7 (two bar phrases on page 16)",
+        "Major 7th (page 18)",
+        "Dominant 7th (page 19)",
+        "Minor 7th (page 20)",
+        "ii mi7b5 / V7 / I mi (two bar phrases on page 21)",
+        "parallel Maj7 to mi7 (two bar phrases on page 22)",
+        "minor (page 24)",
+        "ii mi7 / V7 / I Maj7 (four bar phrases on page 26)",
+        "V7b9 (page 28)",
+        "whole tone (page 30)",
+        "Diminished 7th (page 32)",
+        "ii mi7b5 / V7 / I mi (four bar phrases on page 34)",
+        "ii mi7 / V7 / I Maj7 (with moving 7ths on page 36)"
+    ],
+    "@key": [
+        "C",
+        [
+            "C#",
+            "Db"
+        ],
+        "D",
+        [
+            "D#",
+            "Eb"
+        ],
+        "E",
+        "F",
+        [
+            "F#",
+            "Gb"
+        ],
+        "G",
+        [
+            "G#",
+            "Ab"
+        ],
+        "A",
+        [
+            "A#",
+            "Bb"
+        ],
+        "B"
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "desc": "Work on the** @ex** chorus (**page @page**) of **Bob Mintzer's blues solo transcription** in** @key**",
+    "randomizers":[
+        {
+            "@page": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "@ex": [
+                "1st",
+                "2nd",
+                "3rd"
+            ]
+        },
+        {
+            "@page": [
+                "5"
+            ],
+            "@ex": [
+                "1st"
+            ]
+        }
+    ],
+    "@key": [
+        "C",
+        [
+            "C#",
+            "Db"
+        ],
+        "D",
+        [
+            "D#",
+            "Eb"
+        ],
+        "E",
+        "F",
+        [
+            "F#",
+            "Gb"
+        ],
+        "G",
+        [
+            "G#",
+            "Ab"
+        ],
+        "A",
+        [
+            "A#",
+            "Bb"
+        ],
+        "B"
+    ]
+}

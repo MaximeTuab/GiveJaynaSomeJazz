@@ -1,0 +1,59 @@
+{
+    "desc": "From the book **Pentatonic Patterns For Jazz Improvisation**, work on the** @phrase @type **pattern in** @key**. \n If time, work on 3 keys, following the cycle of fifths",
+    "@type": [
+        "Major Pentatonic",
+        "Dominant Pentatonic",
+        "Minor Pentatonic"
+    ],
+    "@phrase": [
+        "1st",
+        "2nd",
+        "3rd",
+        "4th",
+        "5th",
+        "6th",
+        "7th",
+        "8th",
+        "9th",
+        "10th", 
+        "11th",
+        "12th",
+        "13th",
+        "14th",
+        "15th",
+        "16th",
+        "17th",
+        "18th",
+        "19th",
+        "20th"
+    ],
+    "@key": [
+        "C",
+        [
+            "C#",
+            "Db"
+        ],
+        "D",
+        [
+            "D#",
+            "Eb"
+        ],
+        "E",
+        "F",
+        [
+            "F#",
+            "Gb"
+        ],
+        "G",
+        [
+            "G#",
+            "Ab"
+        ],
+        "A",
+        [
+            "A#",
+            "Bb"
+        ],
+        "B"
+    ]
+}
