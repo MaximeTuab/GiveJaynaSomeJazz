@@ -13,7 +13,6 @@ class GimmeSomeJazzGifs:
             "piano",
             "love",
             "kiss",
-            "kisses"
         ]
         self.lmt = 512
         self.buffer = []
