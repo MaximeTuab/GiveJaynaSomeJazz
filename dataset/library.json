@@ -1,45 +1,17 @@
 [
-    [
-        [
-            {"weight": 1.0, "library": "dataset/books/scales_package_simplified.json"},
-            {"weight": 0.2, "library": "dataset/books/20_exercises_for_augmented_scale_technique.json"}
-        ],
-        "dataset/books/15_approach_note_enclosure_exercises_for_jazz_musicians.json",
-        [
-            "dataset/books/jerry_bergonzi_inside_improvisation_vol_2.json",
-            "dataset/books/pentatonic_patterns_for_jazz_improvisation.json",
-            "dataset/books/ramon_ricker_pentatonic_scales_for_jazz_improvisation.json"
-        ]
-    ],
-    [
-        "dataset/books/50_II-V-I_phrases_package.json", 
-        "dataset/books/vm_best_major_II_V_I_patterns.json",
-        "dataset/books/vm_best_minor_II_V_I_patterns.json",
-        "dataset/books/64_inside_out_phrases.json", 
-        "dataset/books/65_shredding_diminished_phrases.json", 
-        "dataset/books/69_modern_phrases.json", 
-        "dataset/books/hip_licks_volume_1.json", 
-        "dataset/books/hip_licks_volume_2.json",
-        "dataset/books/75_phrases_on_minor_progressions.json"
-    ],
-    [
-        "dataset/books/bob_mintzer's_blues_solo_transcription.json",
-        "dataset/books/20_melodic_cell_etudes.json",
-        "dataset/books/ramon_ricker_advanced_chord_etudes_for_saxophone.json",
-        "dataset/books/ron_fix_chad_lefkowitz_brown_solo_transcriptions.json",
-        "dataset/books/practice_routine_on_beebop_tunes.json"
-    ],
-    [
-        "dataset/books/isolated_chord_progressions.json",
-        "dataset/books/jazz_standards_learning.json"
-    ],
-    [
-        "dataset/books/melodic_cell_package.json",
-        "dataset/books/oliver_nelson_patterns_for_saxophone.json",
-        "dataset/books/60_phrases_on_dominant_chords.json", 
-        "dataset/books/one_chord_vamp_phrases.json",
-        "dataset/books/vm_devastating_dominant_lines_for_jazz_and_funk_soloing.json",
-        "dataset/books/vm_devastating_minor_lines_for_jazz_and_funk_soloing.json",
-        "dataset/books/yusef_lateef_repository_of_scales_and_melodic_patterns.json"
-    ]
- ]
+    "10 Left Hand Exericses - Noah Kellman",
+    "20 Exercises for Mastering Diminished Vocabulary - Jazz Piano Concepts",
+    "20 Killer Stride Piano Exercises Dec 2020 Update",
+    "20 Modern Bebop Exercises - Noah Kellman - Jazz Piano Concepts",
+    "20 Neo Soul Improv Exercises - Noah Kellman",
+    "20 Sick Modern Jazz Piano Licks Volume I",
+    "20 Sick Modern Jazz Piano Licks Volume II",
+    "30 Sick Runs and Arpeggios - Noah Kellman - v2",
+    "40 Killer Hand Independence Exercises",
+    "Amazing Improv Exercise - Blues With Playalong",
+    "Amazing Improv Exercise - Jazz Standard With Playalongs",
+    "Jazz Foundations - Chords and Harmony - Dec 2020 Update",
+    "Sound Like The Greats - Hip Hop Rnb Edition - Noah Kellman",
+    "Jazz Styles Neo Soul - Noah Kellman and Chad LB Final"
+
+]
